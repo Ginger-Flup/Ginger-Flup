@@ -1,5 +1,3 @@
-git reset --soft HEAD~1
-git push origin +main --force
 - 👋 Hi, I’m @Ginger-Flup and I've come to make an announcement:
 Shadow the Hedgehog's a bitch-ass motherfucker. He pissed on my fucking wife. That's right. He took his hedgehog fuckin' quilly dick out and he pissed on my FUCKING wife, and he said his dick was T h i s b i g and I said that's disgusting.
 So I'm making a callout post on my Twitter dot com: Shadow the Hedgehog, you got a small dick. It's the size of this walnut except WAY smaller. And guess what? Here's what my dong looks like.
